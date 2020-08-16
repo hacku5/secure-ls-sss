@@ -12,5 +12,5 @@ const sessionStorage = new SecureLS({
 
 ```
 
-**[Main Demo](https://github.com/softvar/secure-ls)**
-**[Main Package](http://softvar.github.io/secure-ls#live-demo)**
+**[Main Demo](http://softvar.github.io/secure-ls#live-demo)**
+**[Main Package](https://github.com/softvar/secure-ls)**
